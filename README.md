@@ -14,6 +14,5 @@ Optimized version of SQL table with instances.
 <br><br>
 4. [project prat2 b](https://github.com/yyywrz/sql/blob/master/proj_part2_b.sql)
 Some important queries  
-<br><br>
-5. [project prat2 c](https://github.com/yyywrz/sql/blob/master/proj_part2_c.sql)
+<br><br>5. [project prat2 c](https://github.com/yyywrz/sql/blob/master/proj_part2_c.sql)
 Some statistical results calculated by given instances 
